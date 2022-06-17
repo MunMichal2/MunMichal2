@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MunMichal2
+- 👋 Hi, I’m emce2_
 - 👀 I’m interested in computer vision, DL, DS, and more, and more, more, more...
 - 🌱 I’m currently learning about ML and DS
 - 📫 You can't reach me at this moment.
